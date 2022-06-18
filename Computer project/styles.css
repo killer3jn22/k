@@ -1,0 +1,48 @@
+header {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+body {
+    background-image: linear-gradient(to top, pink,rgb(0, 190, 248));
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+p .intro {
+    font-size: 40px;
+    text-align: center;
+    color: brown
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+p .type {
+    font-size: 40px;
+    text-align: center;
+    color: blue
+}
+p .softw {
+    font-size: 40px;
+    color: darkblue;
+}
+a {
+    color: red;
+    font-size: 30px;
+}
+footer {
+    background: black;
+
+}
+a #sep {
+    margin: 25px;
+   
+}

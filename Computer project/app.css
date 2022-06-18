@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+body {
+    background-image: linear-gradient(to top, rgb(255, 0, 242), rgb(0, 228, 159));
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+p .as {
+    font-size: 40px;
+    color: aquamarine;
+}
+p .examples {
+    font-size: 40px;
+    color: yellow;
+}
+p .cts {
+    font-size: 40px; 
+    color: greenyellow;
+}
+a {
+    color: red;
+    font-size: 30px;
+}
+footer {
+    background: black;
+
+}
+a #sep {
+    margin: 25px;
+   
+}

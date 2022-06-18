@@ -1,0 +1,71 @@
+header {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+body {
+    background-image: linear-gradient(to top, yellow, orange);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+p .os {
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+}
+p .lp {
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+a {
+    color: red;
+    font-size: 30px;
+}
+p .last {
+    font-size: 40px;
+    color: darkmagenta;
+}
+p .utility {
+    font-size: 40px;
+    color: lightcoral
+}
+p .lpt {
+    font-size: 40px;
+    color: orangered;
+
+}
+p .enter {
+    font-size: 40px;
+    color: gray;
+}
+p .typesoflp {
+    font-size: 40px;
+    color: firebrick;
+}
+p .func {
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}
+header.sys {
+    font-size: 50px;
+}
+a #sep {
+    margin: 25px;
+   
+}
+footer {
+    background: black;
+
+}
